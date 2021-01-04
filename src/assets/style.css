@@ -1,0 +1,19 @@
+.container{
+    color: brown;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    width: 250px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.texto{
+    color: gray;
+    font-style: italic;
+}
